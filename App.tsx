@@ -1,7 +1,7 @@
 
 import React from 'react';
 import { Sidebar } from './components/Sidebar';
-import { Player } from './components/Player';
+import { Player } from './Player';
 import type { Channel, Category } from './types';
 import { TvIcon } from './components/Icons';
 
